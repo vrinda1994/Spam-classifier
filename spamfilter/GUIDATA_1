@@ -1,0 +1,4 @@
+e GUIDATA)
+b=get(handles.input,'String');
+b=char(b);
+b=mailinp(b);
